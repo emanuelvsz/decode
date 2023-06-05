@@ -1,4 +1,4 @@
-# Encode Library
+# Decode Library
 
 A Biblioteca Encode é um projeto que fornece uma coleção de funções para converter diferentes tipos de códigos para o alfabeto e vice-versa. Ela permite que você converta códigos como Código Morse, Alfabeto, Binário, Números e outros, facilitando a comunicação e a manipulação desses dados em diferentes formatos.
 
